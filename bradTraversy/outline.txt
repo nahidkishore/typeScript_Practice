@@ -1,0 +1,20 @@
+Intro & Sponsor
+0:39 - Slides
+7:58 - TypeScript Setup
+8:55 - TSC (TypeScript Compiler)
+11:42 - Config File
+13:32 - Folder Structure
+16:50 - Basic Types
+18:03 - Arrays & Tuples
+21:27 - Unions & Enum
+24:30 - Objects
+26:00 - Type Assertion
+27:23 - Functions
+29:54 - Interfaces
+32:28 - Function Interface
+33:49 - Classes
+37:00 - Data Modifiers
+39:20 - Implement Interface in Class
+40:39 - Extending Classes (Subclasses)
+43:27 - Generics
+47:30 - TypeScript With React
